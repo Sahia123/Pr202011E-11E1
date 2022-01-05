@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>
+ Dummy Web
+</title>
+<link href="stylesheet.css"  rel="text/css" type="stylesheet"/>
+</head>
+<body>
+<h1>
+WELCOME
+</h1>
+</body>
