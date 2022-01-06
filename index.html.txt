@@ -9,10 +9,17 @@
 <h1>
 WELCOME
 </h1>
+<<<<<<< HEAD
 <div class="container">
 <div col-md-12>
-<p>This is container</p>
+<p>This is container by Faizan</p>
 </div>
 </div>
 <!--Code Added By Hammad-->
+=======
+
+<h2> Headig Added By Hammad </h2>
+<h3> Headig 3 Added By Hammad </h3>
+
+>>>>>>> 5e3400480bb89337ab7bf829ca3215ec83274d3a
 </body>
