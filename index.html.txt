@@ -7,7 +7,7 @@
 </head>
 <body>
 <h1>
-WELCOME
+Hello World
 </h1>
 <<<<<<< HEAD
 <div class="container">
@@ -20,6 +20,6 @@ WELCOME
 
 <h2> Headig Added By Hammad </h2>
 <h3> Headig 3 Added By Hammad </h3>
-<h3> Headig 3 Added By Muhammad Ahmad</h3>
+<h3> Headig 1 Edit By Anos Voldagord</h3>
 >>>>>>> 5e3400480bb89337ab7bf829ca3215ec83274d3a
 </body>
